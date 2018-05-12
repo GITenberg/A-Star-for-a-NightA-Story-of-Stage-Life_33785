@@ -1,0 +1,28 @@
+_repo: A-Star-for-a-NightA-Story-of-Stage-Life_33785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Janis, Elsie
+    alias: Bierbower, Elsie Jane
+    birthdate: 1889
+    deathdate: 1956
+    gutenberg_agent_id: '36601'
+    url: http://www.gutenberg.org/2009/agents/36601
+description: ''
+gutenberg_issued: '2010-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33785'
+  lccn: '11026176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'A Star for a Night: A Story of Stage Life'
+url: http://www.gutenberg.org/ebooks/33785
